@@ -18,4 +18,4 @@ jobs:
         server: arxan.my.id
         username: arunika@arxan.my.id
         password: ${{ secrets.ftp_password }}
-        server-dir: /home/arxanmyi/gws/
+        server-dir: /
